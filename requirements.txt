@@ -1,5 +1,5 @@
-streamlit==1.36.0
-pandas==2.2.2
-language-tool-python==2.7.1
-textstat==0.7.3
-SpeechRecognition==3.10.4
+streamlit
+pandas
+language-tool-python
+textstat
+SpeechRecognition
